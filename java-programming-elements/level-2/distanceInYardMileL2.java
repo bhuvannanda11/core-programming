@@ -1,5 +1,5 @@
 import java.util.*;
-public class distanceInYardMileL2 {
+public class DistanceinYardMileL2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

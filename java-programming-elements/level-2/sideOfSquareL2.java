@@ -1,5 +1,5 @@
 import java.util.*;
-public class sideOfSquareL2 {
+public class SideOfSquareL2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

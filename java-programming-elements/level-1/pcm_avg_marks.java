@@ -1,5 +1,5 @@
 import java.util.*;
-public class pcm_avg_marks {
+public class PCm_avg_marks {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the marks of maths, physics and chemistry :");

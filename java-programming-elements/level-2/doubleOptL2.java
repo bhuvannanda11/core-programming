@@ -1,5 +1,6 @@
+
 import java.util.*;
-public class doubleOptL2 {
+public class DoubleOptL2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter value of a:");

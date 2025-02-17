@@ -1,5 +1,5 @@
 import java.util.*;
-public class conversion_of_distance {
+public class Conversion_of_distance {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // 1km = 1.6miles
